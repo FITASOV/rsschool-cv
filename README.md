@@ -1,1 +1,1 @@
-# rsschool-cv
+https://fitasov.github.io/rsschool-cv/cv
