@@ -1,0 +1,3 @@
+# Timofey Fitasov
+!(/cv-photo)
+
