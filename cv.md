@@ -1,4 +1,4 @@
 # Timofey Fitasov
-!(/cv-photo)
-My phone: +79066660662
-My Discord: Timofey Fitasov (@FITASOV)
+![best-photo](cv-photo.jpg)
+* My phone: +79066660662
+* My Discord: Timofey Fitasov (@FITASOV)
